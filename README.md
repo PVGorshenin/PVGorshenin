@@ -1,7 +1,7 @@
 Hi 👋. My name is Pavel. I'm a Machine Learning Engineer and
 I still can't believe I am getting money for doing such a :gem: thing as Machine Learning.
 
-[![Linkedin](https://img.shields.io/badge/-Pavel%20Gorshenin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavel-gorshenin-555914127/)](https://www.linkedin.com/in/pavel-gorshenin-555914127/)
+[![Linkedin](https://img.shields.io/badge/-Pavel%20Gorshenin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavel-gorshenin-555914127/)](https://www.linkedin.com/in/pavel-gorshenin/)
 
 
 - My current interests are NLP, RecSys, country comparison, MLOps, team's management.
